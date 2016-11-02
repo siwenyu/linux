@@ -9,3 +9,5 @@
 	1. 编辑 vim /Users/baidu/.zshrc //修改配置文件
 	2. alias mymac="ls -l" //在最后添加的命令
 	3. source ~/.zshrc //保存 
+	
+PS:对于网上大部分人说修改.bashrc和/etc/bashrc文件的方法，本人试验无效，不发表评论。
