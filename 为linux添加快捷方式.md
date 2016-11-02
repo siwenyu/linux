@@ -6,6 +6,6 @@
 在root帐号下：alias ll="ls -l"
 此方法添加的快捷键在机器重启后会消失。但是既然是快捷键，肯定是经常使用，所以这个方法可以忽略了。
 2. 建立永久快捷键
-	1. 编辑 vim /Users/baidu/.bashrc //修改配置文件
-	2. alias mymac="ls -l" //添加的命令
-	3. source ~/.bashrc //保存
+	1. 编辑 vim /Users/baidu/.zshrc //修改配置文件
+	2. alias mymac="ls -l" //在最后添加的命令
+	3. source ~/.zshrc //保存 
