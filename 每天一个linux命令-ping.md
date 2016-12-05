@@ -1,4 +1,4 @@
-# 每天一个linux命令
+# 每天一个linux命令--ping
 ### 1.ping命令
 
 ping命令是因特网包探索器。
